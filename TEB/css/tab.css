@@ -1,0 +1,23 @@
+table tr, th, td {
+border: solid 1px silver;
+border-collapse: collapse;
+padding: 10px;
+text-align: center;
+}
+
+th{
+  background-color: grey;
+  color: white;
+}
+th.czer{
+  background-color: red;
+  color: white;
+}
+th.nieb{
+  background-color: blue;
+  color: white;
+}
+th.ziel{
+  background-color: green;
+  color: white
+}

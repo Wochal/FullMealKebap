@@ -1,0 +1,17 @@
+*{
+  background-color: grey;
+}
+ol.aaa{
+  list-style-type: lower-roman;
+  color: red;
+}
+ul.bbb{
+  list-style-type: circle;
+  color: blue;
+}
+ul.ddd
+{color: blue;
+}
+ul.fff{
+  color: yellow;
+}

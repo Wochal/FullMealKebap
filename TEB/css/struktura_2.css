@@ -1,0 +1,13 @@
+*
+{background-color: grey}
+ol
+{list-style-type: upper-alpha;
+}
+ol.number
+{list-style-type: decimal
+;{}
+  ul.ccc
+  {list-style-type: square;}
+ul.bbb{
+  list-style-type: circle
+}
